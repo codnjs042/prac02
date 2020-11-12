@@ -3,4 +3,5 @@ def print_dan(x):
         print('{}*{}={}'.format(x,i,x*i))
 print_dan(2)
 
-# 쓸데없는 주석
+
+# 쓸데없는 주석 
